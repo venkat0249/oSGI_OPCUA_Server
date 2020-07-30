@@ -1,0 +1,7 @@
+{
+"connectors":{
+		"Temperature":"36.2",
+		"Humidity":"16",
+		"X_24_8_on":false
+		}
+}

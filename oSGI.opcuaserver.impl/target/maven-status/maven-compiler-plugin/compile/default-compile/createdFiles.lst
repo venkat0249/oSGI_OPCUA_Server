@@ -1,0 +1,12 @@
+org\fortiss\smg\oSGI\opcuaserver\impl\ActuatorClientImpl.class
+org\fortiss\smg\oSGI\opcuaserver\impl\ValueLoggingDelegate.class
+org\fortiss\smg\oSGI\opcuaserver\impl\SensorsNamespace$1.class
+org\fortiss\smg\oSGI\opcuaserver\impl\ActuatorClientActivator.class
+org\fortiss\smg\oSGI\opcuaserver\jsonreader\MyVariableNode.class
+org\fortiss\smg\oSGI\opcuaserver\jsonreader\GenericJsonReader$1.class
+org\fortiss\smg\oSGI\opcuaserver\impl\SensorsNamespace$2.class
+org\fortiss\smg\oSGI\opcuaserver\jsonreader\ConfigInterface.class
+org\fortiss\smg\oSGI\opcuaserver\impl\SensorsNamespace.class
+org\fortiss\smg\oSGI\opcuaserver\jsonreader\GenericJsonReader.class
+org\fortiss\smg\oSGI\opcuaserver\jsonreader\MyFolderNode.class
+org\fortiss\smg\oSGI\opcuaserver\impl\startOPCUAServer.class
